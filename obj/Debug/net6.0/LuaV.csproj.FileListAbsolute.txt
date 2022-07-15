@@ -1,0 +1,15 @@
+/home/runner/LuaV/bin/Debug/net6.0/LuaV
+/home/runner/LuaV/bin/Debug/net6.0/LuaV.deps.json
+/home/runner/LuaV/bin/Debug/net6.0/LuaV.runtimeconfig.json
+/home/runner/LuaV/bin/Debug/net6.0/LuaV.dll
+/home/runner/LuaV/bin/Debug/net6.0/ref/LuaV.dll
+/home/runner/LuaV/bin/Debug/net6.0/LuaV.pdb
+/home/runner/LuaV/obj/Debug/net6.0/LuaV.csproj.AssemblyReference.cache
+/home/runner/LuaV/obj/Debug/net6.0/LuaV.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/LuaV/obj/Debug/net6.0/LuaV.AssemblyInfoInputs.cache
+/home/runner/LuaV/obj/Debug/net6.0/LuaV.AssemblyInfo.cs
+/home/runner/LuaV/obj/Debug/net6.0/LuaV.csproj.CoreCompileInputs.cache
+/home/runner/LuaV/obj/Debug/net6.0/LuaV.dll
+/home/runner/LuaV/obj/Debug/net6.0/ref/LuaV.dll
+/home/runner/LuaV/obj/Debug/net6.0/LuaV.pdb
+/home/runner/LuaV/obj/Debug/net6.0/LuaV.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+/home/runner/LuaV/obj/Debug/net5.0/LuaV.csproj.AssemblyReference.cache
+/home/runner/LuaV/obj/Debug/net5.0/LuaV.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/LuaV/obj/Debug/net5.0/LuaV.AssemblyInfoInputs.cache
+/home/runner/LuaV/obj/Debug/net5.0/LuaV.AssemblyInfo.cs
+/home/runner/LuaV/obj/Debug/net5.0/LuaV.csproj.CoreCompileInputs.cache
